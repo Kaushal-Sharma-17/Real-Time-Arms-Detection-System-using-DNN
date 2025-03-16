@@ -1,5 +1,5 @@
 # Real-Time Arms Detection with Deep Neural Networks (YOLOv3)
-## A machine learning model for firearms detection.
+## A deep learning model for firearms detection.
 
 #### Requirements:
 > - OpenCV
